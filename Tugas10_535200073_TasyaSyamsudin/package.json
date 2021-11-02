@@ -1,0 +1,25 @@
+{
+  "name": "ejspraktikum",
+  "version": "1.0.0",
+  "description": "Praktikum 10 web programming (js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TasyaSyamsudin/535200073_TasyaSyamsudin_webprogramming_b.git"
+  },
+  "author": "Tasya Syamsudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TasyaSyamsudin/535200073_TasyaSyamsudin_webprogramming_b/issues"
+  },
+  "homepage": "https://github.com/TasyaSyamsudin/535200073_TasyaSyamsudin_webprogramming_b#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
