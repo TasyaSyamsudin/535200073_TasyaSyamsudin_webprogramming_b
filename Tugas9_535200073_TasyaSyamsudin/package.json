@@ -1,0 +1,25 @@
+{
+  "name": "expresspraktikum",
+  "version": "1.0.0",
+  "description": "Praktikum 9 web programming (express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TasyaSyamsudin/535200073_TasyaSyamsudin_webprogramming_b.git"
+  },
+  "author": "TasyaSyamsudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TasyaSyamsudin/535200073_TasyaSyamsudin_webprogramming_b/issues"
+  },
+  "homepage": "https://github.com/TasyaSyamsudin/535200073_TasyaSyamsudin_webprogramming_b#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
